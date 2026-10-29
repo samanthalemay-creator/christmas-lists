@@ -17,10 +17,28 @@
       "price": "",
       "priority": "Would love",
       "notes": "Youth Large"
+    },
+    {
+      "id": "d694bdb7-66cc-4f15-b231-00810cda33ca",
+      "kid": "Max",
+      "name": "Men's Replica Nike Lamine Yamal Barcelona Away Jersey 26/27",
+      "url": "https://www.soccer.com/shop/details/men-s-replica-nike-lamine-yamal-barcelona-away-jersey-26-27_RV7031527",
+      "price": "",
+      "priority": "Would love",
+      "notes": "Adult Medium"
+    },
+    {
+      "id": "711b6e47-efbb-4bc9-a3f1-b8830f0ad223",
+      "kid": "Max",
+      "name": "Men's Replica Nike Balogun USMNT Away Jersey 2026",
+      "url": "https://www.soccer.com/shop/details/men-s-replica-nike-balogun-usmnt-away-jersey-2026_RV7027606",
+      "price": "",
+      "priority": "Really want",
+      "notes": ""
     }
   ],
   "links": {
-    "Max": "",
+    "Max": "https://www.amazon.com/hz/wishlist/ls/177GB096VN5KE?ref_=wl_share",
     "Zak": "https://www.amazon.com/hz/wishlist/ls/2VR1BLNIIWC2L?ref_=wl_share"
   }
 }
