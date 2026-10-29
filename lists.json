@@ -1,4 +1,26 @@
 {
-  "items": [],
-  "links": { "Max": "", "Zak": "" }
+  "items": [
+    {
+      "id": "95242709-81f1-48fb-b8df-09cb3c15b163",
+      "kid": "Zak",
+      "name": "Goat Gun - Barrett 50cal Model - Black",
+      "url": "https://www.goatguns.com/products/mini-50cal-barrett",
+      "price": "",
+      "priority": "Would love",
+      "notes": ""
+    },
+    {
+      "id": "80a7ebc1-d152-4a57-bc9b-0e1a44e98873",
+      "kid": "Zak",
+      "name": "Kid's Replica adidas Olise Bayern Munich Away Jersey 26/27",
+      "url": "https://www.soccer.com/shop/details/kid-s-replica-adidas-olise-bayern-munich-away-jersey-26-27_RV7031745",
+      "price": "",
+      "priority": "Would love",
+      "notes": "Youth Large"
+    }
+  ],
+  "links": {
+    "Max": "",
+    "Zak": "https://www.amazon.com/hz/wishlist/ls/2VR1BLNIIWC2L?ref_=wl_share"
+  }
 }
