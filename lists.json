@@ -35,6 +35,33 @@
       "price": "",
       "priority": "Really want",
       "notes": ""
+    },
+    {
+      "id": "8664e0bd-56e6-4438-8e2f-47ae7623b263",
+      "kid": "Zak",
+      "name": "Goat Gun AR15 Skeleton Model",
+      "url": "https://www.goatguns.com/products/ar15-skeleton-model",
+      "price": "",
+      "priority": "Would love",
+      "notes": ""
+    },
+    {
+      "id": "4e81ce3a-97cf-41a2-9eca-cb57b4edf167",
+      "kid": "Zak",
+      "name": "Goat Gun Desert Eagle Model - Silver",
+      "url": "https://www.goatguns.com/products/desert-eagle-model-silver",
+      "price": "",
+      "priority": "Would love",
+      "notes": ""
+    },
+    {
+      "id": "c5ce219c-7379-41eb-b5ae-6dbe531b413b",
+      "kid": "Zak",
+      "name": "Goat Gun - Artic Kit - 3 in one",
+      "url": "https://www.goatguns.com/products/arctic-kit",
+      "price": "",
+      "priority": "Would love",
+      "notes": ""
     }
   ],
   "links": {
