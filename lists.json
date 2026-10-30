@@ -62,6 +62,51 @@
       "price": "",
       "priority": "Would love",
       "notes": ""
+    },
+    {
+      "id": "db14ad08-6d2c-4425-a4e5-58a1b0f1ff47",
+      "kid": "Max",
+      "name": "La Pulga \"Glacier\" Jersey (2026WC Edition)",
+      "url": "https://commafootball.com/products/la-pulga-glacier-heritage-jersey-2026wc-edition?variant=52971599135036",
+      "price": "80.00",
+      "priority": "Just an idea",
+      "notes": "adult Medium"
+    },
+    {
+      "id": "2d1eef61-2e40-4698-b7b1-aa5b0da94693",
+      "kid": "Max",
+      "name": "Starboy 2026 Champions Jersey For Lamine Yamal.",
+      "url": "https://commafootball.com/products/starboy-2026-world-cup-champions-jersey?variant=53532427387196",
+      "price": "80.00",
+      "priority": "Really want",
+      "notes": "color black\nsize adult medium"
+    },
+    {
+      "id": "a82f0bc9-6f2d-471b-8ed8-6083794c431d",
+      "kid": "Max",
+      "name": "PSG Nike Away Stadium Shirt 2026-2027 with D.Doué 14",
+      "url": "https://usastore.psg.fr/en/jerseys/psg-nike-away-stadium-shirt-2026-2027-with-ddou%C3%A9-14-printing/d-2351001218+f-80222626173355+z-9-2512257591?sku=213143468",
+      "price": "130.00",
+      "priority": "Really want",
+      "notes": "medium"
+    },
+    {
+      "id": "4103c1fd-f492-4c0c-ada7-cced69df18b3",
+      "kid": "Max",
+      "name": "Arsenal adidas 26/27 Authentic Away Shirt Saka number 7",
+      "url": "https://arsenaldirect.arsenal.com/Football-Shirts-and-Kit/Home/Arsenal-adidas-26-27-Home-Shirt/p/MJZ3168/BUKAYO-SAKA",
+      "price": "",
+      "priority": "Really want",
+      "notes": "adult medium \naway"
+    },
+    {
+      "id": "b66978c7-86d1-4d96-817b-6d64bf64bfc1",
+      "kid": "Max",
+      "name": "The Turtle Heritage Jersey (2026WC Edition)",
+      "url": "https://commafootball.com/collections/jerseys/products/the-turtle-heritage-jersey-2026-world-cup?variant=52737186398524",
+      "price": "",
+      "priority": "Really want",
+      "notes": "adult medium"
     }
   ],
   "links": {
